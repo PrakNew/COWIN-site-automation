@@ -1,0 +1,7 @@
+Steps for running the program are
+> First install the python latest version
+> GO to cmd and write pip install selenium
+> google search and download the latest driver for chrome with selenium
+> extract the zip file in D drive
+> execute the program and follow the steps in console
+
